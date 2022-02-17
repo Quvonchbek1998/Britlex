@@ -24,6 +24,7 @@ a{
     color: var(--mainhovercolor);
     font-size: 16px;
 line-height: 24px;
+transition: 0.5s;
 }
 header{
     position: relative;
